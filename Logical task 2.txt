@@ -1,0 +1,13 @@
+1) Check if vending machine has proper buttons.
+2) Check if keypad is working.
+3) Check if it has coin return.
+4) Check does it accept cridet cards.
+5) will cash be accepted.
+6) will coins be accepted.
+7) will the product drop properly.
+8) what if to insert other cyrrencies.
+9) what if to select item from an ampty slot.
+10) will it return cash/coins in case of broken.
+All this cases are most important for user to explore properly working
+vending machine without getting bad experience. Any of this problems can
+cause our customer to feel bad about the product and prevent him from getting back.
